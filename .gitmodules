@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "piglet"]
 	path = piglet
-	url = https://github.com/cran/piglet
+	url = https://github.com/ayeletperes/piglet
